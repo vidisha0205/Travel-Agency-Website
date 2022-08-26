@@ -1,0 +1,20 @@
+li{
+  display:inline;
+  color:white;
+  padding:10px;
+  font-size:30px;
+}
+.Heading{
+  font-family:Times New Roman;
+  font-size:150px;
+  color:white;
+}
+.image{
+  padding:15px;
+  margin: 25px 25px 25px 2px;
+  display:block;
+  background: linear-gradient(rgba(7, 77, 182, 0.986),white,rgba(7, 77, 182, 0.986));
+  border:2px solid lightcyan;
+  width:300px;
+  height:250px;
+}
