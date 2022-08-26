@@ -6,3 +6,4 @@ It also fetched further details incase anyone is interested in further details r
 
 
 The above files do not include the package.json, node modules and package-lock.json files. This file is for code visualisation purposes only.
+As such, none of the required images are uploaded in this folder. The default files that come with using npm are also excluded from this repository.
