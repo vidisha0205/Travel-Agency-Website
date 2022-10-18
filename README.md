@@ -5,5 +5,5 @@ The website makes provisions for customers to sign-up with any destination plan 
 It also fetched further details incase anyone is interested in further details regarding a certain plan from the database.
 
 
-The above files do not include sny of the package.json, node modules and package-lock.json files. This file is for code visualisation and biginner-learning purposes only.
+The above files do not include any of the package.json, node modules and package-lock.json files. This file is for code visualisation and beginner-learning purposes only.
 As such, none of the required images are uploaded in this folder. The default files that come with using npm are also excluded from this repository.
